@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #f0f8ff;
+      width: 800px;
+      height: 600px;
+      overflow: hidden;
+    }
+    .memory-container {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+    }
+    .node {
+      position: absolute;
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, #3498db, #9b59b6);
+      box-shadow: 0 0 15px rgba(52, 152, 219, 0.5);
+    }
+    .node-central {
+      width: 50px;
+      height: 50px;
+      background: linear-gradient(135deg, #e74c3c, #f39c12);
+      box-shadow: 0 0 20px rgba(231, 76, 60, 0.7);
+      z-index: 10;
+    }
+    .edge {
+      position: absolute;
+      height: 2px;
+      background-color: rgba(52, 152, 219, 0.4);
+      transform-origin: left center;
+    }
+    .label {
+      position: absolute;
+      font-family: Arial, sans-serif;
+      font-size: 10px;
+      color: #2c3e50;
+      background-color: rgba(255, 255, 255, 0.7);
+      padding: 2px 5px;
+      border-radius: 3px;
+    }
+    .title {
+      position: absolute;
+      top: 20px;
+      left: 0;
+      right: 0;
+      text-align: center;
+      font-family: Arial, sans-serif;
+      font-size: 20px;
+      color: #2c3e50;
+    }
+  </style>
+</head>
+<body>
+  <div class="memory-container">
+    <div class="title">Réseau de Mémoire - Visualisation</div>
+    
+    <!-- Nœud central -->
+    <div class="node node-central" style="top: 300px; left: 400px;"></div>
+    <div class="label" style="top: 360px; left: 390px;">Concept<br>Central</div>
+    
+    <!-- Nœuds et connections -->
+    <div class="edge" style="top: 315px; left: 425px; width: 130px; transform: rotate(30deg);"></div>
+    <div class="node" style="top: 250px; left: 530px;"></div>
+    <div class="label" style="top: 230px; left: 525px;">Concept 1</div>
+    
+    <div class="edge" style="top: 315px; left: 425px; width: 120px; transform: rotate(-45deg);"></div>
+    <div class="node" style="top: 400px; left: 510px;"></div>
+    <div class="label" style="top: 410px; left: 545px;">Concept 2</div>
+    
+    <div class="edge" style="top: 315px; left: 425px; width: 150px; transform: rotate(180deg);"></div>
+    <div class="node" style="top: 315px; left: 240px;"></div>
+    <div class="label" style="top: 300px; left: 200px;">Concept 3</div>
+    
+    <div class="edge" style="top: 315px; left: 425px; width: 140px; transform: rotate(135deg);"></div>
+    <div class="node" style="top: 200px; left: 330px;"></div>
+    <div class="label" style="top: 170px; left: 325px;">Concept 4</div>
+    
+    <div class="edge" style="top: 315px; left: 425px; width: 110px; transform: rotate(-110deg);"></div>
+    <div class="node" style="top: 370px; left: 320px;"></div>
+    <div class="label" style="top: 380px; left: 280px;">Concept 5</div>
+    
+    <!-- Connections entre concepts -->
+    <div class="edge" style="top: 260px; left: 535px; width: 110px; transform: rotate(90deg);"></div>
+    <div class="edge" style="top: 215px; left: 330px; width: 205px; transform: rotate(10deg);"></div>
+  </div>
+</body>
+</html>

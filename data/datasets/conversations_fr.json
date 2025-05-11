@@ -1,0 +1,48 @@
+[
+  {
+    "dialogue": [
+      "Bonjour, comment vas-tu?",
+      "Je vais bien, merci! Et toi?",
+      "Très bien aussi. Qu'as-tu prévu pour aujourd'hui?",
+      "Je vais travailler sur mon projet d'intelligence artificielle.",
+      "Oh, c'est intéressant! De quoi s'agit-il?",
+      "Je développe un cerveau artificiel qui apprend par lui-même."
+    ]
+  },
+  {
+    "dialogue": [
+      "Excuse-moi, sais-tu où se trouve la bibliothèque?",
+      "Oui, elle est à deux rues d'ici, sur la droite.",
+      "Merci beaucoup! Est-elle ouverte le dimanche?",
+      "Oui, mais seulement l'après-midi, de 14h à 18h.",
+      "Parfait, j'irai demain alors. Merci pour l'information!"
+    ]
+  },
+  {
+    "dialogue": [
+      "J'ai entendu parler d'un nouveau restaurant dans le quartier.",
+      "Ah oui? Quel genre de cuisine propose-t-il?",
+      "C'est un restaurant qui sert des plats traditionnels français avec une touche moderne.",
+      "Ça a l'air délicieux! On pourrait y aller ce week-end?",
+      "Bonne idée! Je vais réserver une table pour samedi soir."
+    ]
+  },
+  {
+    "dialogue": [
+      "Tu as vu le dernier film de science-fiction?",
+      "Non, pas encore. Est-ce qu'il est bon?",
+      "Absolument! L'histoire est fascinante et les effets spéciaux sont incroyables.",
+      "Tu as piqué ma curiosité! Je vais essayer de le voir ce week-end.",
+      "Tu ne seras pas déçu. C'est l'un des meilleurs films que j'ai vus cette année."
+    ]
+  },
+  {
+    "dialogue": [
+      "J'ai commencé à apprendre la programmation en Python.",
+      "C'est un excellent choix! Python est très populaire et relativement facile à apprendre.",
+      "Oui, j'apprécie sa syntaxe claire. As-tu des ressources à me recommander?",
+      "Il y a plusieurs cours en ligne gratuits qui sont très bien. Je peux te partager quelques liens.",
+      "Ce serait super, merci! J'aimerais créer mon propre projet d'IA un jour."
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baby AI Brain - Cerveau Artificiel Apprenant</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Baby AI Brain</h1>
+            <p class="subtitle">Un cerveau artificiel qui apprend comme un bébé</p>
+        </header>
+
+        <div class="brain-status">
+            <h2>État du Cerveau</h2>
+            <div class="stats-container">
+                <div class="stat-box">
+                    <h3>Réseau Neural</h3>
+                    <p>Expériences: <span id="experience-counter">-</span></p>
+                    <p>Curiosité: <span id="curiosity-factor">-</span></p>
+                </div>
+                <div class="stat-box">
+                    <h3>Mémoire</h3>
+                    <p>Court terme: <span id="stm-size">-</span></p>
+                    <p>Long terme: <span id="ltm-size">-</span></p>
+                </div>
+                <div class="stat-box">
+                    <h3>Apprentissage</h3>
+                    <p>Exploration: <span id="exploration-rate">-</span></p>
+                    <p>Concepts: <span id="concepts-count">-</span></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <div class="interaction-panel">
+                <h2>Interaction</h2>
+                <div class="chat-container">
+                    <div id="chat-messages" class="chat-messages">
+                        <div class="message system">
+                            Bonjour ! Je suis un cerveau artificiel vierge qui apprend de mes interactions. N'hésitez pas à me parler !
+                        </div>
+                    </div>
+                    <div class="chat-input-container">
+                        <textarea id="user-input" class="chat-input" placeholder="Entrez votre message..."></textarea>
+                        <button id="send-btn" class="btn send-btn">Envoyer</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tools-panel">
+                <h2>Outils d'apprentissage</h2>
+                
+                <div class="tool-section">
+                    <h3>Exploration Web</h3>
+                    <p>Permettre au cerveau d'explorer internet pour apprendre.</p>
+                    <div class="form-group">
+                        <input type="number" id="max-pages" min="1" max="10" value="3" placeholder="Nombre de pages">
+                        <button id="explore-btn" class="btn">Explorer</button>
+                    </div>
+                    <div class="form-group">
+                        <input type="text" id="url-input" placeholder="URL à explorer">
+                        <button id="add-url-btn" class="btn">Ajouter URL</button>
+                    </div>
+                </div>
+                
+                <div class="tool-section">
+                    <h3>Mémoire</h3>
+                    <p>Rechercher dans la mémoire du cerveau.</p>
+                    <div class="form-group">
+                        <input type="text" id="memory-query" placeholder="Rechercher un souvenir">
+                        <button id="search-memory-btn" class="btn">Rechercher</button>
+                    </div>
+                    <button id="visualize-memory-btn" class="btn full-width">Visualiser la mémoire</button>
+                </div>
+                
+                <div class="tool-section">
+                    <h3>Système</h3>
+                    <button id="save-brain-btn" class="btn full-width">Sauvegarder le cerveau</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="memory-results" class="memory-results hidden">
+            <h3>Résultats de la recherche en mémoire</h3>
+            <div id="memory-items" class="memory-items"></div>
+            <button id="close-memory-btn" class="btn">Fermer</button>
+        </div>
+
+        <div id="visualization-modal" class="modal" style="display: none;">
+            <div class="modal-content">
+                <span id="close-modal-btn" class="close-modal">&times;</span>
+                <h3>Visualisation du réseau de mémoire</h3>
+                <div id="visualization-container">
+                    <img id="memory-visualization" src="/static/visualizations/default_memory_network.png" alt="Réseau de mémoire">
+                </div>
+                <div style="text-align: center; margin-top: 20px;">
+                    <button id="close-visualization-btn" class="btn">Fermer</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/js/main.js"></script>
+</body>
+</html>

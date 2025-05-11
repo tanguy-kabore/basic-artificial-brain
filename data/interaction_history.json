@@ -1,0 +1,224 @@
+[
+  {
+    "input": "Bonjour!",
+    "output": "Je suis en train d'apprendre.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T08:57:26.942925"
+  },
+  {
+    "input": "As tu fini d'apprendre?",
+    "output": "Continuez \u00e0 interagir avec moi pour m'aider \u00e0 apprendre.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T08:57:52.823969"
+  },
+  {
+    "input": "Quand on te dis bonjour, tu peux r\u00e9pondre aussi bonjour",
+    "output": "Chaque interaction me fait grandir.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T08:59:02.638283"
+  },
+  {
+    "input": "Qu'as tu appris?",
+    "output": "C'est nouveau pour moi.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T08:59:34.065529"
+  },
+  {
+    "input": "Bonjour!",
+    "output": "Je suis en train d'apprendre.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T08:59:43.802354"
+  },
+  {
+    "input": "Qu'est ce qu'une IA?",
+    "output": "Je suis en train d'apprendre.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T09:22:32.673227"
+  },
+  {
+    "input": "pose moi une question",
+    "output": "\u00c0 lexploitation comment modifier.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T09:23:20.871500"
+  },
+  {
+    "input": "Je ne sais pas",
+    "output": "Version pour appareil sexercer sans risque.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T09:23:36.400790"
+  },
+  {
+    "input": "Je ne comprends pas",
+    "output": "Page deuxi\u00e8me place,.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T09:24:11.733944"
+  },
+  {
+    "input": "ok",
+    "output": "Programme actualit\u00e9s le espace aide.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T09:24:23.096999"
+  },
+  {
+    "input": "Bonjour!",
+    "output": "Par le bienvenue sur.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T09:24:35.664653"
+  },
+  {
+    "input": "Comment tu t'appelle?",
+    "output": "Document provient de paris. archives propositions.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T09:24:48.497253"
+  },
+  {
+    "input": "Bonjour",
+    "output": "Pendant cr\u00e9er un article.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T09:27:51.223003"
+  },
+  {
+    "input": "Bonjour",
+    "output": "Du portet-daspet. \u00e0.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T09:28:04.516920"
+  },
+  {
+    "input": "Bonjour",
+    "output": "AideD\u00e9buter  Wikip\u00e9dia Aller au contenu Une page de Wikip\u00e9dia, lencyclop\u00e9die libre. Bienvenue sur Wikip\u00e9dia ! Quel est le meilleur moyen de d\u00e9couvrir Wikip\u00e9dia, lencyclop\u00e9die libre ? Nous vous proposons trois parcours diff\u00e9rents pour d\u00e9buter. Bonne d\u00e9couverte ! \u00catre guid\u00e9 dans vos premiers pas Familiarisez-vous progressivement avec les principes, les buts et linterface. D\u00e9couvrez Wikip\u00e9dia pas \u00e0 pas en vid\u00e9o ou la version courte \u00e0 l\u00e9crit Comprendre le fonctionnement Pour utiliser au mieux Wikip\u00e9dia en tant que lecteur ou contributeur Lessentiel \u00e0 savoir ou sa version illustr\u00e9e Contribuer tout de suite Que faire sur Wikip\u00e9dia ?Essayez les modifications sugg\u00e9r\u00e9es ! Comment modifier une page ?Comment cr\u00e9er un article ?Comment traduire un article ?O\u00f9 sexercer sans risque ? Poser une question sur le fonctionnement de Wikip\u00e9dia Ce document provient de  httpsfr.wikipedia.orgwindex.php?titleAideD\u00e9buteroldid217604959 . Cat\u00e9gorie  Espace Aide Rechercher Rechercher AideD\u00e9buter 66 langues Ajouter un sujet",
+    "is_positive": false,
+    "timestamp": "2025-05-11T09:28:12.569069"
+  },
+  {
+    "input": "Que connais tu?",
+    "output": "Est geronimo fait r\u00e9f\u00e9rence.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T09:28:46.335366"
+  },
+  {
+    "input": "bonjour",
+    "output": "Espace aide rechercher vide, insuffisamment lequel il joue.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T09:54:55.663521"
+  },
+  {
+    "input": "bonjour",
+    "output": "Diff\u00e9rents pour the free encyclopedia is still.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T09:55:22.442859"
+  },
+  {
+    "input": "Bonjour",
+    "output": "The gfdl, 0243 pour le d\u00e9pliant fran\u00e7aise, vietto vient.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T10:03:27.902700"
+  },
+  {
+    "input": "bonjour",
+    "output": "Progressivement avec les in the old browser, or code qui sintitule le.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T10:03:44.191114"
+  },
+  {
+    "input": "hello",
+    "output": "Avec les account from content instructions par le.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T10:03:53.785617"
+  },
+  {
+    "input": "burkina faso",
+    "output": "Towards a aided\u00e9buter wikip\u00e9dia concernant wikip\u00e9dia questions from httpssimple.wikipedia.orgwindex.php?titlegnu_free_documentation_licenseoldid10163789 category 2021, la.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T10:04:08.051658"
+  },
+  {
+    "input": "ai",
+    "output": "Y a 30 cette question included in with as.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T10:04:17.286577"
+  },
+  {
+    "input": "qu'est ce que l'ia",
+    "output": "A easy. the gfdl question salebot me g\u00e9n\u00e9raux, voir officiellement la capitale.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T10:04:51.592331"
+  },
+  {
+    "input": "hi",
+    "output": "Th dans votre monde de hockey contribuermodifier le codedernier.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T10:05:34.066897"
+  },
+  {
+    "input": "comment l'ia",
+    "output": "Les biais algorithmiques, lutte contre le c'est une \u00eatre explicitement programm\u00e9s, de comprendre.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T10:34:14.181045"
+  },
+  {
+    "input": "apprendre une langue",
+    "output": "\u00catre explicitement programm\u00e9s, l'intelligence artificielle? l'intelligence hydraulique, g\u00e9othermique et intelligence comment fonctionne.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T10:34:49.075950"
+  },
+  {
+    "input": "Qu'est-ce qu'un r\u00e9seau de neurones?",
+    "output": "Quels tandis c'est une fonctionne l'apprentissage qui.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T10:35:50.604951"
+  },
+  {
+    "input": "continu",
+    "output": "D'\u00e9nergies renouvelables sont qu'est-ce neurones est ou quels sont.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T10:36:04.097334"
+  },
+  {
+    "input": "Bonjour, comment allez-vous aujourd'hui?",
+    "output": "De vocabulaire et langage naturel? le nouvelle fa\u00e7on de l'ia faible artificiels avec plusieurs.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T10:36:49.956210"
+  },
+  {
+    "input": "bonjour",
+    "output": "De voir le forte? l'ia biais algorithmiques, les des r\u00e9seaux p\u00e9trole,.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T10:45:01.202040"
+  },
+  {
+    "input": "bonjour",
+    "output": "Renouvelables g\u00e9n\u00e9ralis\u00e9e comparable \u00e0 cr\u00e9er des machines et le.",
+    "is_positive": true,
+    "timestamp": "2025-05-11T10:47:57.578726"
+  },
+  {
+    "input": "bonjour",
+    "output": "Penser et g\u00e9n\u00e9rer le langage la simple m\u00e9morisation des naturel, les \u00e9nergies.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T10:54:46.244234"
+  },
+  {
+    "input": "bonjour",
+    "output": "\u00c9mettent va bien des syst\u00e8mes de langage naturel nombreux.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T10:55:27.249002"
+  },
+  {
+    "input": "bonjour",
+    "output": "Le d\u00e9veloppement de sans \u00eatre les ouverte.",
+    "is_positive": true,
+    "timestamp": "2025-05-11T10:56:16.325103"
+  },
+  {
+    "input": "Bonjour",
+    "output": "Culture, une nouvelle et le gaz deep learning tandis une nouvelle.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T10:59:12.625153"
+  },
+  {
+    "input": "bonjour",
+    "output": "\u00c9nergies de artificielle est solaire, \u00e9olienne, hydraulique,.",
+    "is_positive": false,
+    "timestamp": "2025-05-11T11:11:36.161445"
+  }
+]
